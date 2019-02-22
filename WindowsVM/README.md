@@ -1,8 +1,8 @@
 # Windows VM with Availability Set
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-1vm-2nics-2subnets-1vnet%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/DHAED001/Azure/master/WindowsVM/azuredeploy.json?token=Ao3VJeSAyG0f5wBnPukBQcr3fxuGYh4oks5ccFirwA%3D%3D" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
-<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-1vm-2nics-2subnets-1vnet%2Fazuredeploy.json" target="_blank">
+<a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/DHAED001/Azure/master/WindowsVM/azuredeploy.json?token=Ao3VJRi3_z2HrWy8WhXiPnFSjlCjF0YVks5ccFjWwA%3D%3D" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
